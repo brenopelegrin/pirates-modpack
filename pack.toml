@@ -1,0 +1,13 @@
+name = "Pirates n RPG modpack"
+author = "brenopelegrin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5eeb3bac7e9e9a29974027f429f77c4792b672b8d19f35191f8c9831db1a2f85"
+
+[versions]
+forge = "47.1.3"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Jobs+ Remastered"
+filename = "jobsplus-1.2.4-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26d830febd55615eaee85d63da01870109b76369"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4843570
+project-id = 916985

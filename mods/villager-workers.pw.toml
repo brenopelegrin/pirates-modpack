@@ -1,0 +1,13 @@
+name = "Villager Workers"
+filename = "workers-1.20.1-1.7.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pqlv7VM3/versions/MMZ90aBs/workers-1.20.1-1.7.6.jar"
+hash-format = "sha1"
+hash = "c4c7b187f1a3891e4019251c93fddfab3fbd2772"
+
+[update]
+[update.modrinth]
+mod-id = "Pqlv7VM3"
+version = "MMZ90aBs"

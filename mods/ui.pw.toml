@@ -1,0 +1,13 @@
+name = "UI Lib"
+filename = "uilib-0.2.8-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f7254e55b0e3401f1895dcfc2616ce17bab36fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4989566
+project-id = 933200

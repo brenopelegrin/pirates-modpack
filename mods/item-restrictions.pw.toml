@@ -1,0 +1,13 @@
+name = "Item Restrictions"
+filename = "itemrestrictions-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d79ce411e305352fc3e505103083ace805380f2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4830291
+project-id = 887774

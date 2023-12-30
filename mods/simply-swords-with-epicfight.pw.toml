@@ -1,0 +1,13 @@
+name = "[update stop] simply swords with epicfight"
+filename = "simply_swords_with_epicfight_mod_1.20.1 (v3).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bee2a6c0da1f675b09cf6863665b72f62870ea9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4858775
+project-id = 926303

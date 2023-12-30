@@ -1,0 +1,13 @@
+name = "Small Ships"
+filename = "smallships-forge-1.20.1-2.0.0-a2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/H3Tkf5ua/smallships-forge-1.20.1-2.0.0-a2.3.3.jar"
+hash-format = "sha1"
+hash = "23a924a3cca7c5575a20c685dd9c7cc56ffc823f"
+
+[update]
+[update.modrinth]
+mod-id = "rGWEHQrP"
+version = "H3Tkf5ua"

@@ -1,0 +1,13 @@
+name = "EC L_Ender's Cataclysm Plugin"
+filename = "ec_lec_plugin-1.20.1-2.0.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Gv9ktQx/versions/9aJRgn53/ec_lec_plugin-1.20.1-2.0.0-all.jar"
+hash-format = "sha1"
+hash = "8e14d4fe25530527a9ba9dc1b89afc5aa12ebd7e"
+
+[update]
+[update.modrinth]
+mod-id = "8Gv9ktQx"
+version = "9aJRgn53"

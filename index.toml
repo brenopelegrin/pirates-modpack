@@ -1,0 +1,309 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "README.md"
+hash = "4bf479e2e54eb4e6cac0c6ca37e538fbbca8b48504263ecfd4b38845b51fb6c4"
+
+[[files]]
+file = "mods/arc.pw.toml"
+hash = "62bfccafb40be266cb7fed57c4c812027d3d667c4a25ca47cf7e4ba6f06a0d05"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "bbdde189f98ef22538522bde4f9f2991a72d7ce68c4204bede8065139f2d74e2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "fdda2d2ff2f57853b01df78d86334dd1ef20afbeb6fcf3949caae4580d31f911"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1b9ee39fd1356323e4079873e9513535f635e5681d94ac8fb5bc2487dfbd5b78"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-legacy.pw.toml"
+hash = "607a986b1d715de72554fd5e1c8da969cea64fba13662f95d89d1875527be616"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0c9bddfb4fde72ad3f49e60c25937ab078b4771e8aa360cbb2fc39727f4755d1"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-content.pw.toml"
+hash = "1cd592bcca291e5c0fb7638b4617a632b19f49135ea23d24374f33176e754e6c"
+metafile = true
+
+[[files]]
+file = "mods/ec-lec-plugin.pw.toml"
+hash = "069949fbbe463aea83470c151cd3864e09ec58f5c29631a84837c9c147aa99fc"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
+metafile = true
+
+[[files]]
+file = "mods/enemy-expansion.pw.toml"
+hash = "cfd2d6f6ec181391af4cd9829abcaacd3d205d53c82cbbfabec28534fa776c9e"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-mod.pw.toml"
+hash = "41e38f9b7cbe1c33c6746c3a48a517297a61a4bf6282f08f3132822f24c64f28"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight.pw.toml"
+hash = "c06f9184309dd7204ca3465672c4d195f9aa9588923701f2b1bdf5fbe5d19db3"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "44c1f305f22e0fc9112c5e5d19cec89010037e6e100a84db103671efee379510"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "5cb962703db05b35c472bd0a68ffd207d3956559bfaeaba8d9ba87689faeee0b"
+metafile = true
+
+[[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "de3af0b3710f27c87cc94039031e889bce22970e2709a4707edb9abce27fa699"
+metafile = true
+
+[[files]]
+file = "mods/forge-soul-like-armors-reworked.pw.toml"
+hash = "c8fde32a1689bab4831243687cbf3f059edff6bfe2a48dee2c6410f488585d69"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+metafile = true
+
+[[files]]
+file = "mods/item-restrictions.pw.toml"
+hash = "2cd8a7e308365f1e623842e2fe11c662e05eda076c43c060d90c434e89309d62"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
+metafile = true
+
+[[files]]
+file = "mods/jobs-remastered.pw.toml"
+hash = "3ceee4a3a4e1a9807271349b69c2f4a637d1de138266ef8d7c36b94fad0715fd"
+metafile = true
+
+[[files]]
+file = "mods/just-leveling.pw.toml"
+hash = "b9a93157333ddfc388ddc368e09b6fbf7089ca118132b95ab42ecd09ad1d0ec8"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm(cataclysm).pw.toml"
+hash = "e3efaac5cb68d66223d1486b80093e0ffded8b92c5ac07899a0e6a2edb99f739"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0e7d0f763673558843e7b3c43be1f1e20fb6034a9d7ef37d1886f134a75eb2d7"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "b5667d8296390025430b548d3f6d0d2c727cf2659f7f57f8c2b4e5d3444774f3"
+metafile = true
+
+[[files]]
+file = "mods/nocubes-sea-dwellers.pw.toml"
+hash = "1a90e348cbd3a142ae16d23e9318ce30db2679a9125154844c9d78b6aca673fc"
+metafile = true
+
+[[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "eb156c89b37c02ca60e6ae884b33c92c5db7bd7cb90a6f9f0995b0e766bd0345"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-dragon-wyrms.pw.toml"
+hash = "f62d7a222828a775e82d08a8e174b61c01a11a59531b108643d8e33afb400eaf"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-fallen-adventurers.pw.toml"
+hash = "9d0937d036c25a7726722609fe28e38b07590ca9c095053ad69291ced61dbe0f"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-imps-demons.pw.toml"
+hash = "cec964f76cbc78e9ff22347a27f44a4cbb0e6da437218ed0c71ef6d19ac812ad"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "69ef464692d18a9cdbf995460975f828132b989aa035b811b62c05bc0b8d613c"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords-with-epicfight.pw.toml"
+hash = "4137147f8875f0140afdf960d26a1555a06b4cae498e8cd9769211b928a9ef29"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "92748adb38ae31b43ec0e95d05cb1bf2e3c360e3c87d142c1fb1ca09f578267c"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "d6d8c9d9caa211ae34bbc8fb127939691cd22e296ae9ed0554687d25747a48da"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "52a12182d09b248e7d245689c8cd55ebe898a3b121d77d9cf509e13b8002133d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ee0fa3921e81c5c47c27e09de1dffef9088d51981082fd1c80186f4c412e238e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9f68a11739e652f811453f92768c0170064240f79700bc8d68f4665a2b1c697f"
+metafile = true
+
+[[files]]
+file = "mods/spells-shields.pw.toml"
+hash = "b22f20e86bce81e8dda558a895f81a0b0fd43eba7dc9476ba8d3686faa1f411e"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "23a2ebc6f394c3243e7272d0bb718aa72df201963e19f620871cf85b19a8ef7b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
+metafile = true
+
+[[files]]
+file = "mods/the-farlanders.pw.toml"
+hash = "18ad3515c0660a4febc21742a0e8aea593d0cbd3bb7afe5abc6926f89f71e3da"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "6e1021078595a26dc52f9f3b380f5bf6e12d0627e3090421454393b1002c52ff"
+metafile = true
+
+[[files]]
+file = "mods/ui.pw.toml"
+hash = "3115f42255fceda447a194bcdeeba850e5e5052f033af8e3326cb9c9a3fcc947"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "dfd979a3e6002e7fe8506a91d0dadcc4231ec4ffe0ec194e3c1105b4b80f7024"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "5068e4da5e0abeb961c454ef519b049f20588676e8796ff7ddcd91d7c25d092b"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "5fef246e23abd9fa405ab3af2faa56bfadf668d46a001b1af3772c0afe6989fd"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "465e0875a23a38ae734ae5e6e6e5227c3880f599818ae77acefb0f4d9a2737ce"
+metafile = true
+
+[[files]]
+file = "mods/villager-workers.pw.toml"
+hash = "de4b48bbed81dbb0aa433a645932e672a003b50c334f137ffd2690ba0e4e75e8"
+metafile = true
+
+[[files]]
+file = "mods/ydms-mobhealthbar.pw.toml"
+hash = "c0715e59f3dbf75db4c9d410193e4e9046ef8fa979efdaa38a071e6f0cecab7b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "71ef81296c5c139e2ad2dedeb96383c1e25d67eefe673216a42fa2bd2c750a32"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "4ade6c70a153486ae39432b3a49e369e69a00131938ae71ef0a58e92715fdfc0"
+metafile = true
